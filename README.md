@@ -1,1 +1,1 @@
-# C-Odevleri
+# Üniversitede c dili ile yapılan ödevler
